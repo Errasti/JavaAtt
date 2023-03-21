@@ -1,0 +1,18 @@
+mkdir Documents/toys_for_school
+mkdir Documents/toys_for_kindergarten
+touch Documents/toys_for_school/constructor
+touch Documents/toys_for_school/robots
+touch Documents/toys_for_school/table_games
+touch Documents/toys_for_kindergarten/soft_toys
+touch Documents/toys_for_kindergarten/dolls
+touch Documents/toys_for_kindergarten/cars
+mv Documents/toys_for_school/ Documents/name_of_the_toy
+mv Documents/name_of_the_toy/ Documents/toys
+ls Documents/toys/
+snap find gimp
+sudo apt update
+sudo apt install gimp
+sudo snap remove gimp
+sudo nano /etc/crontab
+
+( root   cd /home/francisko/ && history >> /Documents/history.txt )
